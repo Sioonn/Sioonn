@@ -1,15 +1,25 @@
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Sioonn&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
+  </div>
+    
+ <br/>
+ <br/>
+ 
 ##  :wave: Welcome my github profile !
 
-  
- <br/>
- <br/>
   </div>
+<div>
   
-###  :clipboard: Once I've Used 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sioonn&layout=compact)](https://github.com/Sioonn/github-readme-stats)
+  
+![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sioonn&show_icons=true&theme=radical)
+</div>
+ <br/>
+
+ <br/>
+
+##  :clipboard: Once I've Used 
 ### Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
@@ -23,6 +33,8 @@
   
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+
 </div>
 
 ### Server
@@ -51,11 +63,5 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sioonn&layout=compact)](https://github.com/Sioonn/github-readme-stats)
-  
-![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sioonn&show_icons=true&theme=radical)
+
 
