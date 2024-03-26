@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sioonn&show_icons=true&theme=radical)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=wave&text=Sioonn)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sioonn&show_icons=true&theme=radical)
+</div>
+
 <!--
 **Sioonn/Sioonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
